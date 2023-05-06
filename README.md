@@ -1,4 +1,3 @@
 # DownLoadStram
-use this repo to clone
 
-Dwonload multi links in recative style programming
+Dwonload multiple links in reactive style programming
